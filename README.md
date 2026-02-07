@@ -14,4 +14,3 @@
 
 # python2 KEY.py
 
-# TANKS FOR YOU SAYANG:V
